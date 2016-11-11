@@ -1,0 +1,74 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "nodebb-plugin-post-comments@file:./plugins/nodebb-plugin-post-comments",
+        "scope": null,
+        "escapedName": "nodebb-plugin-post-comments",
+        "name": "nodebb-plugin-post-comments",
+        "rawSpec": "file:./plugins/nodebb-plugin-post-comments",
+        "spec": "/home/yoyo/code/NodeBB/NodeBB/plugins/nodebb-plugin-post-comments",
+        "type": "directory"
+      },
+      "/home/yoyo/code/NodeBB/NodeBB"
+    ]
+  ],
+  "_from": "plugins/nodebb-plugin-post-comments",
+  "_id": "nodebb-plugin-post-comments@0.1.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/nodebb-plugin-post-comments",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "nodebb-plugin-post-comments@file:./plugins/nodebb-plugin-post-comments",
+    "scope": null,
+    "escapedName": "nodebb-plugin-post-comments",
+    "name": "nodebb-plugin-post-comments",
+    "rawSpec": "file:./plugins/nodebb-plugin-post-comments",
+    "spec": "/home/yoyo/code/NodeBB/NodeBB/plugins/nodebb-plugin-post-comments",
+    "type": "directory"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "file:plugins/nodebb-plugin-post-comments",
+  "_shasum": "19f80cc8201bb87c2da1704e8e4886eb0df9e0a2",
+  "_shrinkwrap": null,
+  "_spec": "nodebb-plugin-post-comments@file:./plugins/nodebb-plugin-post-comments",
+  "_where": "/home/yoyo/code/NodeBB/NodeBB",
+  "author": {
+    "name": "psychobunny",
+    "email": "psycho.bunny@hotmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/psychobunny/nodebb-plugin-topic-badges/issues"
+  },
+  "dependencies": {},
+  "description": "NodeBB Topic Badges - Allows users to label a topic with a badge by prefixing their title in square brackets",
+  "devDependencies": {},
+  "homepage": "https://github.com/psychobunny/nodebb-plugin-topic-badges#readme",
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "badges",
+    "topic",
+    "labels"
+  ],
+  "license": "BSD-2-Clause",
+  "main": "library.js",
+  "name": "nodebb-plugin-post-comments",
+  "nbbpm": {
+    "compatibility": "^1.1.0"
+  },
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psychobunny/nodebb-plugin-topic-badges.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.1"
+}
